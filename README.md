@@ -14,8 +14,8 @@ Estos scripts simplifican el proceso de instalación y ejecución de herramienta
 
 1. **Clonar el Repositorio**
     ```bash
-    git clone https://github.com/TuNombreDeUsuario/pip-tools.git
-    cd pip-tools
+    git clone https://github.com/BUSTAXDEUZ/AUTOPIP.git
+    cd AUTOPIP
     ```
 
 2. **Instalar los Scripts Globalmente**
